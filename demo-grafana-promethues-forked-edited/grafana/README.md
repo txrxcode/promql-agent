@@ -15,7 +15,7 @@ This setup includes three pre-configured dashboards:
 - **Purpose**: Overview of system health and quick navigation
 - **Features**:
   - Service status summary
-  - Active alerts count
+    - Active alerts count
   - Average CPU usage
   - Response time metrics
   - Quick links to other dashboards

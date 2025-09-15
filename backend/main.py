@@ -1,5 +1,5 @@
 """
-AegisNexus Backend Server
+promql-agent Backend Server
 Simple script to start the FastAPI server with uvicorn
 """
 import uvicorn
@@ -9,7 +9,7 @@ from pathlib import Path
 
 def main():
     """Start the FastAPI server"""
-    print("🚀 Starting AegisNexus Backend Server...")
+    print("🚀 Starting promql-agent Backend Server...")
     
     # Add the current directory to Python path to ensure imports work
     current_dir = Path(__file__).parent
