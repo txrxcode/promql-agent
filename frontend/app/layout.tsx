@@ -9,8 +9,8 @@ import { SidebarInset } from "@/components/ui/sidebar"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "AegisNexus AI Assistant",
-  description: "Security AI Assistant",
+  title: "promql-agent",
+  description: "CLI agent for Prometheus, Loki, and Grafana",
     generator: 'v0.dev'
 }
 

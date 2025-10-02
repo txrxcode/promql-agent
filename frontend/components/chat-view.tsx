@@ -28,7 +28,7 @@ export function ChatView() {
       id: "1",
       type: "assistant",
       content:
-        "Hello! I'm your AegisNexus AI security assistant. I can help you analyze security threats, review logs, interpret security diagrams, and provide recommendations. How can I assist you today?",
+        "Hi! I'm promql-agent. Ask me about your Prometheus metrics, Loki logs, or Grafana dashboards and I'll generate the queries and answers.",
       timestamp: new Date(),
     },
   ])

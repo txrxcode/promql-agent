@@ -64,7 +64,7 @@ export function AppSidebar() {
           <div className="h-8 w-8 rounded bg-gradient-to-br from-red-600 via-orange-500 to-yellow-500 flex items-center justify-center shadow-lg">
             <Flame className="h-4 w-4 text-black" />
           </div>
-          <span className="font-semibold text-white">AegisNexus AI</span>
+          <span className="font-semibold text-white">promql-agent</span>
         </div>
       </SidebarHeader>
 
