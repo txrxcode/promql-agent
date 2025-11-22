@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv run promql-agent:*)",
+      "Bash(uv sync)",
+      "Bash(uv run pytest:*)",
+      "Bash(docker compose:*)",
+      "Bash(docker-compose:*)"
+    ]
+  }
+}
